@@ -1,8 +1,8 @@
 # Hi there! I'm Sergio
 
-Third-year Computer Engineering student at Universidad Carlos III de Madrid (UC3M).
+I'm a third-year Computer Engineering student at Universidad Carlos III de Madrid (UC3M), passionate about software development and always eager to learn new technologies.
 
-I'm passionate about software engineering and enjoy building efficient and reliable software. Throughout my degree, I've worked on projects involving distributed systems, concurrent programming, databases and networking.
+Throughout my degree, I've worked on projects involving distributed systems, concurrent programming, databases and networking.
 
 ## 💻 Technologies
 
