@@ -4,7 +4,7 @@ Third-year Computer Engineering student at Universidad Carlos III de Madrid (UC3
 
 I'm passionate about software engineering and enjoy building efficient and reliable software. Throughout my degree, I've worked on projects involving distributed systems, concurrent programming, databases and networking.
 
-## Technologies
+## 💻 Technologies
 
 - C
 - Java
@@ -13,12 +13,12 @@ I'm passionate about software engineering and enjoy building efficient and relia
 - Git
 - Linux
 
-## Currently learning
+## 🌱 Currently learning
 
 - Distributed Systems
 - Software Engineering
 - Computer Networks
 
-## Contact
+## 📫 Contact
 
 - LinkedIn (coming soon)
