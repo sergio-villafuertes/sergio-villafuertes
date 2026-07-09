@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi there! I'm Sergio
 
-<!--
-**sergio-villafuertes/sergio-villafuertes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Third-year Computer Engineering student at Universidad Carlos III de Madrid (UC3M).
 
-Here are some ideas to get you started:
+I'm passionate about software engineering and enjoy building efficient and reliable software. Throughout my degree, I've worked on projects involving distributed systems, concurrent programming, databases and networking.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technologies
+
+- C
+- Java
+- Python
+- SQL
+- Git
+- Linux
+
+## Currently learning
+
+- Distributed Systems
+- Software Engineering
+- Computer Networks
+
+## Contact
+
+- LinkedIn (coming soon)
